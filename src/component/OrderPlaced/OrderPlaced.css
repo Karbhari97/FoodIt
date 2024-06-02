@@ -1,0 +1,13 @@
+.order-placed{
+
+    margin: 65px 30px;
+    text-align: center;
+    padding: 40px;
+}
+
+.order-placed h2{
+    color: rgb(6, 107, 6);
+    padding: 60px;
+    box-shadow: 0px 0px 8px green;
+    border-radius: 40px;
+}
